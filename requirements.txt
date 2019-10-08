@@ -1,3 +1,6 @@
 PyQt5==5.13.1
 # PySide2==5.13.1
 pymysql==0.9.3
+
+nfcpy==1.0.3
+pyscard==1.9.9
